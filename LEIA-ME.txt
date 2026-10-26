@@ -1,0 +1,16 @@
+MINHA CASINHA — como instalar como app
+
+1) Coloque esta pasta na internet (grátis, 1 minuto):
+   - Netlify Drop: acesse app.netlify.com/drop e arraste a pasta inteira (descompactada).
+   - ou GitHub Pages / Cloudflare Pages / Vercel.
+   O endereço precisa começar com https://
+
+2) No celular, abra o endereço:
+   - Android (Chrome): menu ⋮ > "Instalar app" (ou "Adicionar à tela inicial").
+   - iPhone (Safari): botão Compartilhar > "Adicionar à Tela de Início".
+   Pronto: o ícone da Mimi aparece e o app abre em tela cheia, até sem internet.
+
+3) Seus dados ficam no aparelho. Para levar os dados da versão antiga:
+   Casa > "Copiar backup (texto)", e no app novo: Casa > "Colar backup".
+
+Para virar APK/loja de apps, use pwabuilder.com com o endereço publicado.
